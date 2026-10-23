@@ -1,6 +1,6 @@
 <!--
   GitHub Profile README
-  1. Create a GitHub repository with the exact same name as your username.
+  1. Create a GitHub repository with the exact same name as Anshif.
   2. Upload this file as README.md.
   3. Replace YOUR-USERNAME and the placeholder links below.
 -->
@@ -8,7 +8,7 @@
 <div align="center">
 
   <!-- Replace YOUR-USERNAME with your GitHub username -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Hi%20there,%20I'm%20YOUR-USERNAME%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Data%20Analyst%20%7C%20Turning%20Data%20Into%20Insights&descAlignY=58&descSize=16" alt="Profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Hi%20there,%20I'm%20Anshif%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Data%20Analyst%20%7C%20Turning%20Data%20Into%20Insights&descAlignY=58&descSize=16" alt="Profile banner" />
 
   <h3>📊 Junior Data Analyst | Excel • SQL • Power BI • Python</h3>
 
